@@ -1,0 +1,2003 @@
+* {
+  font-family: "Open Sans", sans-serif;
+}
+
+/* Satrt Rohan Course CSS Code*/
+
+.original-1 {
+  width: 100%;
+  height: 480px;
+  display: flex;
+  flex-direction: row;
+  background-color: transparent;
+}
+
+.course-cards-main-by-rohan-1 {
+  width: 47%;
+  height: 400px;
+  margin-top: 1%;
+  display: flex;
+  flex-direction: row;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+  transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+  background-color: white;
+}
+.course-cards-2-main-by-rohan-1 {
+  width: 100%;
+  height: 400px;
+  margin-top: 1%;
+  /* display: flex;
+  flex-direction: row; */
+  margin-left: 6%;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+  transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+  
+  background-color: white;
+}
+.course-cards-main-by-rohan-1:hover {
+  box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
+  
+  background-color: white;
+}
+.course-cards-2-main-by-rohan-1:hover {
+  box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
+  
+  background-color: white;
+}
+.work-from-home {
+  width: 100%;
+  height: 64px;
+  background-color: white;
+}
+.cards-img-1-by-rohan {
+  width: 100%;
+  height: 200px;
+}
+.cards-text-1-by-rohan {
+  background-color: white;
+}
+.cards-text-1-by-rohan > h3 {
+  margin-left: 5%;
+  position: relative;
+  top: 5%;
+}
+.cards-text-1-by-rohan > p {
+  color: gray;
+  font-size: 12px;
+  margin-left: 5%;
+}
+.google-material-icon-img-by-rohan {
+  margin-left: 8%;
+  margin-top: 4%;
+}
+.google-material-icon-text-1 {
+  font-size: 14px;
+  position: absolute;
+  left: 35%;
+  top: 115%;
+  color: #f9ab00;
+}
+.google-clock-img-by-rohan {
+  position: absolute;
+  left: 42%;
+  top: 117%;
+}
+.google-clock-icon-text-1 {
+  color: #f9ab00;
+  font-size: 14px;
+  position: absolute;
+  left: 150%;
+  bottom: -30%;
+}
+.google-material-icon-2-text-1 {
+  font-size: 14px;
+  position: absolute;
+  color: #f9ab00;
+  left: 70.5%;
+  bottom: -22.5%;
+}
+.google-clock-img-2-by-rohan {
+  position: absolute;
+  left: 78%;
+  top: 117%;
+}
+.google-clock-icon-2-text-1 {
+  color: #f9ab00;
+  font-size: 14px;
+  position: absolute;
+  left: 170%;
+  top: -50%;
+}
+.google-material-icon-3-text-1 {
+  font-size: 14px;
+  position: absolute;
+  color: #f9ab00;
+  left: 35%;
+  top: 190%;
+}
+.google-clock-img-3-by-rohan {
+  position: absolute;
+  left: 42%;
+  top: 192.5%;
+}
+.google-clock-icon-3-text-1 {
+  color: #f9ab00;
+  font-size: 14px;
+  position: absolute;
+  left: 124%;
+  top: -55%;
+}
+.google-material-icon-4-text-1 {
+  font-size: 14px;
+  position: absolute;
+  color: #f9ab00;
+  left: 70%;
+  top: 190.5%;
+}
+.google-clock-img-4-by-rohan {
+  position: absolute;
+  left: 77.5%;
+  top: 192.5%;
+}
+.google-clock-icon-4-text-1 {
+  color: #f9ab00;
+  font-size: 14px;
+  position: absolute;
+  left: 130%;
+  top: -55%;
+}
+.google-material-icon-5-text-1 {
+  font-size: 14px;
+  position: absolute;
+  color: #f9ab00;
+  left: 34.8%;
+  top: 266%;
+}
+.google-clock-img-5-by-rohan {
+  position: absolute;
+  left: 41%;
+  top: 268%;
+}
+.google-clock-icon-5-text-1 {
+  color: #f9ab00;
+  font-size: 14px;
+  position: absolute;
+  left: 121.5%;
+  bottom: -36%;
+}
+.google-material-icon-6-text-1 {
+  font-size: 14px;
+  position: absolute;
+  color: #f9ab00;
+  left: 70.5%;
+  top: 266.5%;
+}
+.google-clock-img-6-by-rohan {
+  position: absolute;
+  left: 78%;
+  top: 268.5%;
+}
+.google-clock-icon-6-text-1 {
+  color: #f9ab00;
+  font-size: 14px;
+  position: absolute;
+  left: 140%;
+  bottom: -36%;
+}
+.google-material-icon-7-text-1 {
+  font-size: 14px;
+  position: absolute;
+  color: #f9ab00;
+  left: 34.8%;
+  top: 341.5%;
+}
+.google-clock-img-7-by-rohan {
+  position: absolute;
+  left: 41%;
+  top: 343.5%;
+}
+.google-clock-icon-7-text-1 {
+  color: #f9ab00;
+  font-size: 14px;
+  position: absolute;
+  left: 150%;
+  bottom: -36%;
+}
+.google-material-icon-8-text-1 {
+  font-size: 14px;
+  position: absolute;
+  color: #f9ab00;
+  left: 70.5%;
+  top: 345.6%;
+}
+.google-clock-img-8-by-rohan {
+  position: absolute;
+  left: 78%;
+  top: 347.5%;
+}
+.google-clock-icon-8-text-1 {
+  color: #f9ab00;
+  font-size: 14px;
+  position: absolute;
+  left: 150%;
+  bottom: -36%;
+}
+.google-material-icon-9-text-1 {
+  font-size: 14px;
+  position: absolute;
+  color: #f9ab00;
+  left: 35%;
+  top: 417%;
+}
+.google-clock-img-9-by-rohan {
+  position: absolute;
+  left: 42%;
+  top: 419%;
+}
+.google-clock-icon-9-text-1 {
+  color: #f9ab00;
+  font-size: 14px;
+  position: absolute;
+  left: 150%;
+  bottom: -36%;
+}
+.google-material-icon-10-text-1 {
+  font-size: 14px;
+  position: absolute;
+  color: #f9ab00;
+  left: 70.5%;
+  top: 421%;
+}
+.google-clock-img-10-by-rohan {
+  position: absolute;
+  left: 79%;
+  top: 423%;
+}
+.google-clock-icon-10-text-1 {
+  color: #f9ab00;
+  font-size: 14px;
+  position: absolute;
+  left: 110%;
+  bottom: -26%;
+}
+.load-more-by-rohan {
+  width: 20%;
+  height: 30px;
+  text-align: center;
+  margin-left: 40%;
+}
+.load-more-by-rohan:hover {
+  background-color: lightgray;
+  color: blue;
+}
+.load-more-btn-imp {
+  border: 0;
+  background: none;
+  -webkit-appearance: none;
+  font-size: 15px;
+
+  margin-bottom: 500px;
+}
+.load-more-btn-imp:hover {
+  color: blue;
+  background-color: lightgray;
+}
+.right-column {
+  width: 70%;
+  height: 2000px;
+  margin-top: 80px;
+  /* border: 1px solid red; */
+}
+/* End Rohan Course CSS Code*/
+
+/*Start Harsh Course CSS Code*/
+
+.courses-heading {
+  width: auto;
+  background-color: white;
+  height: 180px;
+  padding: 50px;
+  padding-top: 80px;
+}
+.heading-content {
+  width: 60%;
+}
+.heading-content > h1 {
+  font-size: 40px;
+  margin-bottom: 0px;
+}
+.heading-content > p {
+  color: grey;
+  font-size: 18px;
+  margin-top: 5px;
+  text-align: justify;
+}
+
+.left-column {
+  width: 25%;
+}
+
+.checklist {
+  /* border: 1px solid; */
+  width: 80%;
+  margin: 50px auto;
+  padding: 20px;
+}
+.checklist > h4 {
+  margin-bottom: 30px;
+  font-size: 14px;
+}
+.checklist > div > input[type="checkbox"] {
+  width: 25px;
+  height: 25px;
+  margin: 10px;
+  margin-right: 5px;
+}
+.checklist > div > h5 {
+  /* border: 1px solid; */
+  width: 60%;
+  font-weight: normal;
+  color: grey;
+  font-size: 16px;
+  margin: 10px;
+  margin-right: 50px;
+}
+.left-column > .checklist:nth-child(5) {
+  margin-bottom: 10px;
+  border-bottom: 1px solid;
+}
+.left-column > a {
+  margin: 50px;
+  color: blue;
+  text-decoration: none;
+  font-size: 15px;
+  font-weight: bold;
+}
+
+/* End Harsh Course CSS Code*/
+
+/*<!---------Start----------------------------------Rohan-Code--Front--Page--Part--2-------------------------Simple steps for your development-----TO----------------Show More Events--------------------------------------------------------------->*/
+body {
+  background-color: rgb(245, 245, 245);
+}
+/* Navbar */
+.navbar {
+  position: fixed;
+  left: 1px;
+  width: 100%;
+  top: 0;
+  z-index: 1;
+  background-color: white;
+  box-shadow: 0 0 4px;
+  display: block;
+  transition: top 0.3s;
+}
+.garage-img {
+  width: 18%;
+  margin: 20px;
+  margin-left: 10px;
+}
+.nav-menus {
+  margin: 22px;
+  margin-left: 10px;
+  font-size: 15px;
+  text-decoration: none;
+  color: grey;
+}
+.nav-signin {
+  margin: 22px;
+  font-size: 15px;
+  text-decoration: none;
+  color: rgb(25, 107, 217);
+  font-weight: bold;
+}
+.google-register-btn {
+  margin: 10px;
+  font-size: 15px;
+}
+.menu-dropdown {
+  border: transparent;
+  width: 80px;
+}
+.menu-dropdown > option:nth-child(1) {
+  display: none;
+}
+
+/* mentoring */
+.free-mentoring {
+  width: 100%;
+  height: 40px;
+  background-color: rgb(242, 243, 245);
+  color: rgb(134, 133, 133);
+  text-align: center;
+  margin-top: 70px;
+  padding: 5px;
+}
+.free-mentoring > p {
+  margin-top: 10px;
+  font-size: 14px;
+}
+p > a,
+.hero-text > a {
+  text-decoration: none;
+  color: rgb(25, 107, 217);
+}
+
+/* Heros */
+.hero {
+  /* border: 1px solid; */
+  width: 100%;
+  background-color: white;
+  height: 510px;
+  padding: 1px;
+}
+.hero-text {
+  width: 41%;
+  /* border: 1px solid; */
+  padding: 50px;
+  padding-top: 115px;
+  height: 351px;
+  color: grey;
+}
+.hero-text > h1 {
+  color: black;
+}
+.hero-text > ul {
+  margin-left: -20px;
+}
+.hero-img {
+  width: 50.5%;
+  /* border: 1px solid; */
+  height: auto;
+}
+.hero-img > img {
+  height: 510px;
+}
+.blue-button {
+  background-color: rgb(25, 107, 217);
+  color: white;
+  height: 50px;
+  border: none;
+  border-radius: 2px;
+  width: 100px;
+}
+.blue-button:hover {
+  cursor: pointer;
+  background-color: rgb(26, 77, 166);
+}
+.hero-btn {
+  margin-top: 30px;
+  font-size: 15px;
+  width: 150px;
+}
+/* Skills */
+.hero-skills {
+  background-color: rgb(242, 243, 245);
+  padding: 40px;
+  text-align: center;
+}
+
+.skills-btns {
+  margin: 10px auto;
+  width: 600px;
+}
+.hero-skills > p {
+  color: grey;
+}
+.skill-btn-1,
+.skill-btn-2,
+.skill-btn-3 {
+  width: 180px;
+  height: 50px;
+  font-size: 15px;
+  margin: 10px;
+  border-radius: 50px;
+  border: none;
+  background-color: white;
+  font-weight: bold;
+}
+.skill-btn-1 {
+  color: red;
+}
+.skill-btn-2 {
+  color: green;
+}
+.skill-btn-3 {
+  color: rgb(25, 107, 217);
+}
+.skill-btn-1:hover {
+  cursor: pointer;
+  color: white;
+  background-color: red;
+}
+.skill-btn-2:hover {
+  cursor: pointer;
+  color: white;
+  background-color: green;
+}
+.skill-btn-3:hover {
+  cursor: pointer;
+  color: white;
+  background-color: rgb(25, 107, 217);
+}
+
+.upper-text-1,
+.upper-text-2,
+.upper-text-3 {
+  text-align: center;
+  margin-bottom: 0px;
+  font-size: 30px;
+}
+.upper-text-3 {
+  font-size: 20px;
+  margin-bottom: 3%;
+}
+
+.upper-text-2 {
+  margin-bottom: 1%;
+}
+.upper-text-3-1 {
+  text-align: center;
+  font-size: 17px;
+  color: grey;
+  position: relative;
+  bottom: 30px;
+}
+.main-1,
+.main-2,
+.main-3 {
+  width: 90%;
+  display: flex;
+  margin-left: 8%;
+  border-radius: 2px;
+}
+.development-container {
+  height: 400px;
+  background-color: white;
+  margin-bottom: 2%;
+  width: 100%;
+  border-top: 1px solid;
+  align-items: center;
+}
+.main-1 {
+  margin-left: 3%;
+}
+.main-2 {
+  height: 187px;
+  margin-top: 3%;
+}
+.main-3 {
+  height: 150px;
+}
+.flex-1,
+.flex2,
+.flex-3 {
+  background-color: white;
+  border-radius: 2px;
+  flex-direction: column-reverse;
+  border: 2px solid white;
+}
+.flex-4,
+.flex-5,
+.flex-6 {
+  position: relative;
+  flex-direction: column-reverse;
+  width: 27%;
+  height: 150px;
+  background-color: white;
+  border-radius: 2px;
+}
+.flex-5 {
+  margin-left: 5.6%;
+}
+.flex-6 {
+  margin-left: 5.7%;
+}
+.flex-1 {
+  margin-left: 5%;
+}
+.text-1,
+.text-2,
+.text-3 {
+  width: 16.7%;
+  height: 170px;
+  height: auto;
+  /* border: 1px solid */
+}
+.text-1 {
+  margin-left: 1%;
+}
+.text-2 {
+  margin-left: 8%;
+}
+.text-3 {
+  margin-left: 10%;
+}
+.details {
+  color: grey;
+  font-size: 17px;
+  line-height: 1.4;
+}
+.img-2 {
+  margin-left: 90%;
+}
+.img-3 {
+  margin-left: 110%;
+}
+.img-5 {
+  margin-left: 6%;
+}
+.img-6 {
+  margin-left: 6%;
+}
+.text-4,
+.text-5,
+.text-6 {
+  font-size: 12px;
+  margin-left: 5%;
+}
+.get-started {
+  position: absolute;
+  text-decoration: none;
+  bottom: 20px;
+  left: 20px;
+  color: blue;
+  color: rgb(25, 107, 217);
+  font-size: 18px;
+  background-color: white;
+  border: 0;
+  background: none;
+}
+.see-more-topics {
+  border: 0;
+  background: none;
+  -webkit-appearance: none;
+  color: blue;
+  color: rgb(25, 107, 217);
+  margin-left: 43%;
+  margin-top: 3%;
+  font-size: 18px;
+}
+.live-training {
+  background-color: white;
+  padding: 30px;
+  margin-top: 50px;
+  padding-bottom: 90px;
+  margin-top: 50px;
+  margin-bottom: 80px;
+}
+.main-4 {
+  width: 60%;
+  height: 900px;
+  margin-left: 22%;
+}
+.rectangle-1,
+.rectangle-2,
+.rectangle-3 {
+  width: 98%;
+  height: 250px;
+  background-color: white;
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+}
+.rect-text-1 {
+  margin-left: 3%;
+  border: 4px solid white;
+}
+.rectangle-2 {
+  margin-top: 3%;
+}
+.rectangle-3 {
+  margin-top: 3%;
+}
+.rectangle-1 > hr,
+.rectangle-2 > hr,
+.rectangle-3 > hr {
+  width: 95%;
+}
+.loc-img-1 {
+  position: relative;
+  left: 2%;
+  top: 4%;
+}
+.loc-text-1 {
+  position: relative;
+  bottom: 15%;
+  left: 8%;
+  color: grey;
+  font-size: 18px;
+}
+.cal-img-1 {
+  position: relative;
+  bottom: 20%;
+  left: 2%;
+}
+.cal-text-1 {
+  position: relative;
+  bottom: 40%;
+  left: 8%;
+  color: grey;
+}
+.register-btn,
+.btn-events {
+  border: 0;
+  background: none;
+  -webkit-appearance: none;
+  font-size: 20px;
+}
+.register-btn {
+  color: rgb(25, 107, 217);
+  position: absolute;
+  right: -50px;
+  text-decoration: none;
+}
+.reg-b:hover {
+  cursor: pointer;
+  color: purple;
+}
+.btn-events {
+  background-color: rgb(243, 242, 246);
+  width: 100%;
+  height: 100%;
+  cursor: pointer;
+  color: rgb(25, 107, 217);
+}
+.btn-events:hover {
+  cursor: pointer;
+  background-color: rgb(234, 235, 237);
+  color: rgb(18, 18, 172);
+}
+.btn {
+  position: relative;
+  left: 70%;
+  bottom: 60%;
+  width: 20%;
+  height: 50px;
+}
+.see-more-events {
+  text-align: center;
+  width: 25%;
+  height: 50px;
+  margin-left: 35%;
+  margin-top: 5%;
+  padding-top: 2%;
+  padding-bottom: 1%;
+}
+/*<!---------End----------------------------------Rohan-Code--Front--Page--Part--2-------------------------Simple steps for your development-----TO----------------Show More Events--------------------------------------------------------------->*/
+
+/*<!---------Start------------------------------------------------------------------------------------------------------------------------Rohan-Code--Live--Page--1-------------------------------------------------------------------------------------------->*/
+
+.live-1-main-1 {
+  margin-top: 70px;
+  width: 92.5%;
+  height: 200px;
+  padding: 50px;
+  background-color: white;
+  border: 2px solid white;
+}
+.live-1-box-upper {
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+}
+.live-1-upper-text {
+  width: 45%;
+  height: 150px;
+  margin-top: 2%;
+  margin-left: 8%;
+}
+.live-1-p {
+  color: grey;
+}
+.live-1-bar {
+  width: 100%;
+  height: 60px;
+  margin-top: 1%;
+  background-color: white;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+}
+.live-1-bar-show-events {
+  text-align: center;
+  position: relative;
+  top: 25%;
+}
+.live-1-bar-all-loc {
+  width: 8%;
+  height: 40px;
+  position: relative;
+  left: 56%;
+  bottom: 55%;
+}
+.live-1-bar-all-loc:hover {
+  background-color: lightgray;
+
+  cursor: pointer;
+}
+.live-1-select {
+  border: 0;
+  background: none;
+  -webkit-appearance: none;
+  font-size: 16px;
+  position: relative;
+  color: #1a73e8;
+  top: 20%;
+}
+.live-1-main-2 {
+  width: 75%;
+  height: 4500px;
+  margin-top: 2%;
+  margin-left: 15%;
+}
+.live-1-react-1 {
+  width: 95%;
+  margin-top: 2%;
+  height: 270px;
+  border: 1px solid transparent;
+  background-color: white;
+  margin-left: 2%;
+}
+.live-1-react-1-text {
+  width: 94%;
+  height: 160px;
+  border: 1px solid transparent;
+  background-color: white;
+
+  margin-top: 1%;
+  margin-left: 3%;
+}
+.live-1-react-1-p {
+  line-height: 1.8;
+  color: gray;
+}
+.live-1-loc-img-1 {
+  position: relative;
+  left: 2%;
+  bottom: 3%;
+}
+.live-1-loc-text-1 {
+  position: relative;
+  bottom: 21%;
+  left: 8%;
+  color: grey;
+  font-size: 18px;
+}
+.live-1-cal-img-1 {
+  position: relative;
+  bottom: 20%;
+  left: 2%;
+}
+.live-1-cal-text-1 {
+  position: relative;
+  bottom: 36%;
+  left: 8%;
+  color: grey;
+}
+.live-1-register-btn {
+  border: 0;
+  background: none;
+  -webkit-appearance: none;
+  font-size: 20px;
+  position: relative;
+  top: 20%;
+  left: 18%;
+  /* width: 100%; */
+  color: white;
+}
+.live-1-btn {
+  position: relative;
+  left: 75%;
+  bottom: 63%;
+  width: 18%;
+  height: 50px;
+  background-color: rgb(25, 107, 217);
+  border-radius: 8px;
+}
+.live-1-btn:hover {
+  background-color: rgb(33, 74, 166);
+
+  cursor: pointer;
+}
+.live-button-move-1-to-2 {
+  width: 15%;
+  height: 30px;
+  /* border: 1px solid red; */
+  margin-top: 5%;
+  margin-left: 45%;
+}
+.live-1-move-btn-1 {
+  color: rgb(25, 107, 217);
+  border: 0;
+  background: none;
+  -webkit-appearance: none;
+  font-size: 17px;
+}
+.live-1-move-btn-2 {
+  color: rgb(25, 107, 217);
+  border: 0;
+  background: none;
+  -webkit-appearance: none;
+  font-size: 17px;
+}
+.live-1-move-arrow {
+  border: solid rgb(25, 107, 217);
+  border-width: 0 3px 3px 0;
+  display: inline-block;
+  padding: 3px;
+  position: relative;
+  bottom: 25%;
+}
+
+.live-1-move-right {
+  transform: rotate(-45deg);
+  -webkit-transform: rotate(-45deg);
+}
+.live-1-link {
+  text-decoration: none;
+}
+
+/*<!---------End------------------------------------------------------------------------------------------------------------------------Rohan-Code--Live--Page--1-------------------------------------------------------------------------------------------->*/
+
+/*<!---------Start------------------------------------------------------------------------------------------------------------------------Rohan-Code--Live--Page--2--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------Rohan-Code--Live--Page--1-------------------------------------------------------------------------------------------->*/
+
+.live-2-main-1 {
+  margin-top: 70px;
+  width: 92.5%;
+  height: 200px;
+  padding: 50px;
+  background-color: white;
+  border: 2px solid white;
+}
+.live-2-box-upper {
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+}
+.live-2-upper-text {
+  width: 45%;
+  height: 150px;
+  margin-top: 2%;
+  margin-left: 8%;
+}
+.live-2-p {
+  color: grey;
+}
+.live-2-bar {
+  width: 100%;
+  height: 60px;
+  margin-top: 1%;
+  background-color: white;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+}
+.live-2-bar-show-events {
+  text-align: center;
+  position: relative;
+  top: 25%;
+}
+.live-2-bar-all-loc {
+  width: 8%;
+  height: 40px;
+  position: relative;
+  left: 56%;
+  bottom: 55%;
+}
+.live-2-select {
+  border: 0;
+  background: none;
+  -webkit-appearance: none;
+  font-size: 16px;
+  position: relative;
+  color: #1a73e8;
+  top: 20%;
+}
+.live-2-bar-all-loc:hover {
+  cursor: pointer;
+  background-color: lightgray;
+}
+.live-2-main-2 {
+  width: 75%;
+  height: 1900px;
+  margin-top: 2%;
+  margin-left: 15%;
+}
+.live-2-react-1 {
+  width: 95%;
+  margin-top: 2%;
+  height: 270px;
+  border: 1px solid transparent;
+  background-color: white;
+  margin-left: 2%;
+}
+.live-2-react-1-text {
+  width: 94%;
+  height: 160px;
+  border: 1px solid transparent;
+  background-color: white;
+
+  margin-top: 1%;
+  margin-left: 3%;
+}
+.live-2-react-1-p {
+  line-height: 1.8;
+  color: gray;
+}
+.live-2-loc-img-1 {
+  position: relative;
+  left: 2%;
+  bottom: 3%;
+}
+.live-2-loc-text-1 {
+  position: relative;
+  bottom: 21%;
+  left: 8%;
+  color: grey;
+  font-size: 18px;
+}
+.live-2-cal-img-1 {
+  position: relative;
+  bottom: 20%;
+  left: 2%;
+}
+.live-2-cal-text-1 {
+  position: relative;
+  bottom: 36%;
+  left: 8%;
+  color: grey;
+}
+.live-2-register-btn {
+  border: 0;
+  background: none;
+  -webkit-appearance: none;
+  font-size: 20px;
+  position: relative;
+  top: 20%;
+  left: 18%;
+  color: white;
+}
+.live-2-btn {
+  position: relative;
+  left: 75%;
+  bottom: 63%;
+  width: 18%;
+  height: 50px;
+  background-color: rgb(25, 107, 217);
+  border-radius: 8px;
+}
+.live-2-btn:hover {
+  cursor: pointer;
+  background-color: rgb(33, 74, 166);
+}
+.live-button-move-1-to-2 {
+  width: 15%;
+  height: 30px;
+  /* border: 1px solid red; */
+  margin-top: 5%;
+  margin-left: 45%;
+}
+.live-2-move-btn-1 {
+  color: rgb(25, 107, 217);
+  border: 0;
+  background: none;
+  -webkit-appearance: none;
+  font-size: 17px;
+}
+.live-2-move-btn-2 {
+  color: rgb(25, 107, 217);
+  border: 0;
+  background: none;
+  -webkit-appearance: none;
+  font-size: 17px;
+}
+#live-2-move-arrow {
+  border: solid rgb(25, 107, 217);
+  border-width: 0 3px 3px 0;
+  display: inline-block;
+  padding: 3px;
+  position: relative;
+  bottom: 25%;
+}
+
+.live-2-move-left {
+  transform: rotate(135deg);
+  -webkit-transform: rotate(135deg);
+}
+.live-2-link {
+  text-decoration: none;
+}
+
+/*<!---------End------------------------------------------------------------------------------------------------------------------------Rohan-Code--Live--Page--2-------------------------------------------------------------------------------------------->*/
+
+/*<!---------Start------------------------------------------------------------------------------------------------------------------------Rohan-Code--Sign-in-Page-------------------------------------------------------------------------------------------->*/
+
+.sign-in-main-1 {
+  width: 100%;
+  height: 300px;
+  margin-top: 30px;
+  background-color: white;
+  /* border: 1px solid black; */
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+  transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+  position: fixed;
+}
+.sign-in-login-info {
+  width: 42%;
+  height: 180px;
+  margin-top: 4%;
+  margin-left: 8%;
+}
+.sign-in-login-info > p {
+  color: grey;
+}
+.sign-in-main-2 {
+  width: 60%;
+  height: 380px;
+  /* border: 1px solid black; */
+  position: absolute;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+  transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+  top: 36%;
+  left: 20%;
+  background-color: white;
+}
+.sign-in-google-email-1 {
+  width: 30%;
+  height: 40px;
+  margin-top: 6%;
+  margin-left: 35%;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+  transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+  background-color: white;
+  border-radius: 1px;
+}
+.sign-in-google-img {
+  position: relative;
+  left: 6%;
+  top: 10%;
+}
+.sign-in-div-link-to-google-1 {
+  position: absolute;
+  left: 20%;
+  bottom: 30%;
+}
+.sign-in-link-1 {
+  color: #757575;
+  text-decoration: none;
+}
+.sign-in-google-gmail-1 {
+  width: 30%;
+  height: 40px;
+  margin-top: 2%;
+  margin-left: 35%;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+  transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+  background-color: #db4437;
+  border-radius: 1px;
+}
+.sign-in-mail-img {
+  position: relative;
+  left: 6%;
+  top: 10%;
+}
+.sign-in-div-link-to-gmail-1 {
+  position: absolute;
+  left: 43%;
+  bottom: 65%;
+}
+.sign-in-link-2 {
+  color: white;
+  text-decoration: none;
+}
+.sign-in-terms-cond {
+  width: 43%;
+  height: 10px;
+  margin-top: 1%;
+  margin-left: 30%;
+}
+.sign-in-terms-text-1 {
+  font-size: 12px;
+  color: grey;
+}
+.sign-in-link-3 {
+  text-decoration: none;
+  position: absolute;
+  top: 46%;
+  color: #4285f4;
+  left: 35.3%;
+}
+.sign-in-and {
+  position: absolute;
+  left: 48%;
+  top: 42.8%;
+}
+.sign-in-link-4 {
+  text-decoration: none;
+  position: absolute;
+  top: 46%;
+  color: #4285f4;
+  left: 51.5%;
+}
+
+/*<!---------End------------------------------------------------------------------------------------------------------------------------Rohan-Code--Sign-in-Page-------------------------------------------------------------------------------------------->*/
+
+/*<!---------Start------------------------------------------------------------------------------------------------------------------------Rohan-Code--Registration--Page-------------------------------------------------------------------------------------------->*/
+
+.for-register-main-1 {
+  width: 100%;
+  height: 300px;
+  margin-top: 30px;
+  background-color: white;
+  /* border: 1px solid black; */
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+  transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+  position: fixed;
+}
+.for-register-login-info {
+  width: 42%;
+  height: 180px;
+  margin-top: 4%;
+  margin-left: 8%;
+}
+.for-register-login-info > p {
+  color: grey;
+}
+.for-register-main-2 {
+  width: 60%;
+  height: 380px;
+  /* border: 1px solid black; */
+  position: absolute;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+  transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+  top: 36%;
+  left: 20%;
+  background-color: white;
+}
+.for-register-google-email-1 {
+  width: 30%;
+  height: 40px;
+  margin-top: 6%;
+  margin-left: 35%;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+  transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+  background-color: white;
+  border-radius: 1px;
+}
+.for-register-google-img {
+  position: relative;
+  left: 6%;
+  top: 10%;
+}
+.for-register-div-link-to-google-1 {
+  position: absolute;
+  left: 20%;
+  bottom: 30%;
+}
+.for-register-link-1 {
+  color: #757575;
+  text-decoration: none;
+}
+.for-register-google-gmail-1 {
+  width: 30%;
+  height: 40px;
+  margin-top: 2%;
+  margin-left: 35%;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+  transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+  background-color: #db4437;
+  border-radius: 1px;
+}
+.for-register-mail-img {
+  position: relative;
+  left: 6%;
+  top: 10%;
+}
+.for-register-div-link-to-gmail-1 {
+  position: absolute;
+  left: 43%;
+  bottom: 65%;
+}
+.for-register-link-2 {
+  color: white;
+  text-decoration: none;
+}
+.for-register-terms-cond {
+  width: 43%;
+  height: 10px;
+  margin-top: 1%;
+  margin-left: 30%;
+}
+.for-register-terms-text-1 {
+  font-size: 12px;
+  color: grey;
+}
+.for-register-link-3 {
+  text-decoration: none;
+  position: absolute;
+  top: 46%;
+  color: #4285f4;
+  left: 35.3%;
+}
+.for-register-and {
+  position: absolute;
+  left: 48%;
+  top: 42.8%;
+}
+.for-register-link-4 {
+  text-decoration: none;
+  position: absolute;
+  top: 46%;
+  color: #4285f4;
+  left: 51.5%;
+}
+
+/*<!---------End------------------------------------------------------------------------------------------------------------------------Rohan-Code--Registartion--Page-------------------------------------------------------------------------------------------->*/
+
+#video-cards-container {
+  display: flex;
+  padding: 10px;
+  max-width: 1050px;
+  margin: 0px auto;
+  height: auto;
+}
+
+.video-card {
+  flex-basis: 324px;
+  background-color: white;
+  margin: 30px;
+  height: auto;
+}
+
+.float-left {
+  float: left;
+}
+
+.float-right {
+  float: right;
+}
+
+.clear-both {
+  clear: both;
+}
+
+.video-card-info {
+  position: relative;
+  padding: 20px;
+  color: grey;
+  width: auto;
+  min-height: 185px;
+  margin: auto;
+}
+
+.video-card-info > p:nth-child(1) {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.video-card-info > p:nth-child(2) {
+  position: absolute;
+  bottom: 10px;
+  font-size: 12px;
+  font-weight: bold;
+}
+
+.heading {
+  text-align: center;
+}
+.heading > p {
+  color: grey;
+}
+iframe {
+  width: 100%;
+  height: 182px;
+}
+
+/* Partners */
+
+.partner-img {
+  display: none;
+  height: 250px;
+}
+.partner-img > img {
+  height: 180px;
+  margin-left: 23%;
+}
+
+.Partners {
+  background-color: white;
+  padding: 30px;
+  margin-bottom: 50px;
+}
+.Partners > h2 {
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+/* slideshow containers */
+.slideshow-container {
+  max-width: 1000px;
+  position: relative;
+  margin: auto;
+}
+
+/* Next & previous buttons */
+.prev,
+.next {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  width: auto;
+  padding: 16px;
+  margin-top: -22px;
+  color: rgb(102, 102, 230);
+  font-weight: bold;
+  font-size: 18px;
+  transition: 0.6s ease;
+  border-radius: 0 3px 3px 0;
+  user-select: none;
+}
+
+/* Position the "next button" to the right */
+.next {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+
+/* Caption text */
+.partner-img-text {
+  color: grey;
+  font-size: 12px;
+  padding: 10px;
+  position: absolute;
+  bottom: 8px;
+  font-weight: bold;
+  width: 100%;
+  text-align: center;
+}
+
+/* The dots/bullets/indicators */
+.dot {
+  cursor: pointer;
+  height: 15px;
+  width: 15px;
+  margin: 0 2px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+
+/* Fading animation */
+.fade {
+  -webkit-animation-name: fade;
+  -webkit-animation-duration: 1.5s;
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
+
+@-webkit-keyframes fade {
+  from {
+    opacity: 0.4;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes fade {
+  from {
+    opacity: 0.4;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+/* Certification */
+
+.course-container {
+  height: auto;
+  width: 100%;
+  background-color: white;
+  /* border: 1px solid red; */
+}
+
+.course-content,
+.course-img,
+.course-about {
+  /* border: 1px solid; */
+  height: auto;
+  width: 43%;
+  margin: 50px auto;
+  padding: 40px;
+}
+
+.course-detail,
+.course-features,
+.vertical-line {
+  /* border: 1px solid; */
+  height: 300px;
+  width: 20%;
+  margin: 50px 5px;
+}
+
+.course-img > img {
+  width: 95%;
+  margin: 0px 40px;
+}
+
+.course-content > h6 {
+  background-color: rgb(255, 186, 18);
+  padding: 10px;
+  width: 130px;
+}
+.course-content > p,
+.course-about > p {
+  width: 100%;
+  color: grey;
+}
+.sponser-icons > img:nth-child(1) {
+  width: 20%;
+  margin-right: 10px;
+  color: grey;
+}
+.sponser-icons > img:nth-child(2) {
+  width: 12%;
+  margin-right: 10px;
+  color: grey;
+}
+.sponser-icons > img:nth-child(3) {
+  width: 8%;
+  margin-right: 10px;
+  color: grey;
+}
+
+#start-course-btn {
+  background-color: rgb(22, 114, 249);
+  color: white;
+  border: transparent;
+  border-radius: 2px;
+  height: 45px;
+  font-size: 15px;
+  margin-top: 30px;
+  width: 150px;
+}
+#start-course-btn:hover {
+  cursor: pointer;
+  background-color: rgb(26, 77, 166);
+}
+.course-detail,
+.course-features {
+  margin-left: 10px;
+  font-size: 18px;
+  color: grey;
+  /* border: 1px solid; */
+}
+.course-detail > p,
+.course-features > p {
+  margin-left: 20px;
+  font-size: 12px;
+  color: grey;
+}
+
+#features > img {
+  /* border: 1px solid; */
+  margin: 15px;
+  width: 10%;
+  margin-right: 0px;
+}
+#details > h6,
+#features > h6 {
+  /* border: 1px solid; */
+  width: 100px;
+  font-size: 14px;
+  font-weight: normal;
+  margin: 15px;
+  margin-right: 100px;
+}
+#features > h6 {
+  /* border: 1px solid; */
+  width: 180px;
+  font-size: 14px;
+  font-weight: normal;
+  margin: 18px;
+  margin-right: 25px;
+}
+
+#details > img {
+  /* border: 1px solid; */
+  margin: 15px;
+  width: 9%;
+  margin-right: 0px;
+}
+.vertical-line {
+  width: 0.1px;
+  /* height:80px; */
+  background-color: grey;
+}
+
+/* Why get certified */
+
+.benefits {
+  margin-top: 80px;
+}
+.benefits > h2,
+.FAQ > h2 {
+  text-align: center;
+  font-size: 30px;
+  margin-bottom: 80px;
+}
+.certificate,
+.collapsible-divs {
+  width: 49%;
+}
+
+.certificate > img {
+  width: 50%;
+  margin-top: 30px;
+  margin-left: 200px;
+  box-shadow: 0 0 15px;
+}
+
+.collapsible {
+  background-color: transparent;
+  color: grey;
+  cursor: pointer;
+  padding: 18px;
+  width: 70%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 24px;
+}
+
+.collapsible-divs > hr {
+  width: 80%;
+  margin-left: 20px;
+  margin-top: 10px;
+}
+
+.content {
+  padding: 0 18px;
+  max-height: 0;
+  width: 80%;
+  color: grey;
+  overflow: hidden;
+  transition: max-height 0.2s ease-out;
+}
+/* How it works */
+.steps-container {
+  margin-top: 70px;
+  background-color: white;
+  padding: 50px;
+  text-align: center;
+}
+.steps-container > h2 {
+  font-size: 30px;
+}
+.step > p {
+  color: grey;
+}
+.steps-container > div:nth-child(2) {
+  margin-left: 9%;
+}
+.step {
+  width: 300px;
+  text-align: center;
+  margin: 15px;
+  height: 200px;
+  font-size: 18px;
+}
+.arrow {
+  width: 30px;
+  margin: 5px;
+  margin-top: 90px;
+}
+/* Modules */
+.modules {
+  height: auto;
+  width: auto;
+  margin: 80px;
+}
+.modules > h2 {
+  text-align: center;
+  margin-bottom: 100px;
+}
+
+.cards {
+  display: none;
+  height: auto;
+}
+
+.module {
+  height: 400px;
+  padding: 60px;
+  width: 30%;
+  margin: 50px auto;
+  border-radius: 10px;
+  box-shadow: 0 0 5px;
+}
+.module > img {
+  width: 20%;
+}
+.module > h4 {
+  margin-bottom: 0px;
+}
+.module > p {
+  margin-top: 5px;
+  color: grey;
+}
+.module > a {
+  text-decoration: none;
+  color: rgb(25, 107, 217);
+  font-size: 14px;
+}
+.module > hr {
+  margin-bottom: 15px;
+}
+
+/* slideshow containers */
+.cards-container {
+  max-width: 1000px;
+  position: relative;
+  margin: auto;
+}
+
+/* Next & previous buttons */
+.prev1,
+.next1 {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  width: auto;
+  padding: 16px;
+  margin-top: -22px;
+  color: rgb(102, 102, 230);
+  font-weight: bold;
+  font-size: 18px;
+  transition: 0.6s ease;
+  border-radius: 0 3px 3px 0;
+  user-select: none;
+}
+
+/* Position the "next button" to the right */
+.next1 {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+
+/* Caption text */
+.cards-text {
+  color: grey;
+  font-size: 12px;
+  padding: 10px;
+  position: absolute;
+  bottom: 8px;
+  font-weight: bold;
+  width: 100%;
+  text-align: center;
+}
+
+/* Skills you'll learn */
+.skills {
+  border-top: 1px solid rgb(179, 175, 175);
+  background-color: white;
+  padding: 90px;
+  height: auto;
+}
+.skills > h2 {
+  text-align: center;
+  margin-top: 0px;
+  margin-bottom: 90px;
+}
+.skills > .slideshow-container > .partner-img > .partner-img-text {
+  /* border: 1px solid; */
+  top: 180px;
+  font-size: 15px;
+  padding: 10px;
+  height: auto;
+}
+/* Stories */
+.stories {
+  border-top: 1px solid rgb(179, 175, 175);
+  background-color: white;
+  padding: 50px;
+}
+
+.stories > h2,
+.stories > p {
+  text-align: center;
+  margin-bottom: 10px;
+  color: grey;
+}
+.stories > h2 {
+  font-size: 30px;
+  color: black;
+}
+.story-video,
+.story-txt {
+  width: 49%;
+
+  margin-top: 50px;
+  height: 400px;
+}
+.story-video > iframe {
+  width: 100%;
+  height: 100%;
+}
+.story-txt {
+  padding: 10px;
+  padding-top: 50px;
+  height: 340px;
+}
+.story-visible {
+  margin: 20px;
+}
+.story-hide {
+  color: grey;
+  margin: 20px;
+}
+/* FAQ */
+.FAQ {
+  /* border: 1px solid; */
+  border-top: 1px solid rgb(179, 175, 175);
+  text-align: center;
+  background-color: white;
+  padding: 50px;
+}
+.FAQ > hr {
+  width: 70%;
+}
+.FAQ > .content {
+  text-align: left;
+  width: 65%;
+  margin-left: 190px;
+  height: auto;
+}
+#faq-btn {
+  background-color: rgb(242, 244, 246);
+  border: transparent;
+  font-size: 15px;
+  padding: 10px;
+  width: 120px;
+  font-weight: bold;
+  margin-top: 40px;
+}
+#faq-btn:hover {
+  background-color: rgb(234, 235, 237);
+  color: rgb(18, 18, 172);
+  cursor: pointer;
+}
+.FAQ > .collapsible {
+  color: black;
+}
+/* Start today */
+.start-today {
+  border-top: 1px solid rgb(179, 175, 175);
+  text-align: center;
+  width: 92.5%;
+  background-color: white;
+  padding: 50px;
+}
+
+.start-today > p {
+  font-size: 22px;
+}
+
+/* Courses List */
+.courses-heading {
+  width: auto;
+  background-color: white;
+  height: 180px;
+  padding: 50px;
+  padding-top: 80px;
+}
+.heading-content {
+  width: 60%;
+}
+.heading-content > h1 {
+  font-size: 40px;
+  margin-bottom: 0px;
+}
+.heading-content > p {
+  color: grey;
+  font-size: 18px;
+  margin-top: 5px;
+  text-align: justify;
+}
+
+.left-column {
+  /* border: 1px solid; */
+
+  width: 25%;
+}
+.right-column {
+  width: 70%;
+  margin-top: 80px;
+  background-color: transparent;
+}
+
+.checklist {
+  /* border: 1px solid; */
+  width: 80%;
+  margin: 50px auto;
+  padding: 20px;
+}
+.checklist > h4 {
+  margin-bottom: 30px;
+  font-size: 14px;
+}
+.checklist > div > input[type="checkbox"] {
+  width: 25px;
+  height: 25px;
+  margin: 10px;
+  margin-right: 5px;
+}
+.checklist > div > h5 {
+  /* border: 1px solid; */
+  width: 60%;
+  font-weight: normal;
+  color: grey;
+  font-size: 16px;
+  margin: 10px;
+  margin-right: 50px;
+}
+.left-column > .checklist:nth-child(5) {
+  margin-bottom: 10px;
+  border-bottom: 1px solid;
+}
+.left-column > a {
+  margin: 50px;
+  color: rgb(25, 107, 217);
+  text-decoration: none;
+  font-size: 15px;
+  font-weight: bold;
+}
+
+/* footer */
+.footer {
+  width: 90%;
+  margin: 5px auto;
+}
+
+.footer-share {
+  text-align: right;
+}
+
+.footer-link-FAQs,
+.footer-link-privacy {
+  text-decoration: none;
+  color: rgb(54, 54, 54);
+  font-size: 13px;
+  margin-right: 50px;
+}
+
+.footer-links {
+  margin-left: 70px;
+}
+.footer-sharing-text {
+  font-weight: bold;
+  color: rgb(48, 47, 47);
+}
+.footer-languages-dropdown {
+  border: none;
+  background-color: transparent;
+  font-size: 17px;
+}
+
+.footer > hr {
+  margin-bottom: 25px;
+  margin-top: 25px;
+}
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+}
